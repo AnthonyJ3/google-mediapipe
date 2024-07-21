@@ -1,0 +1,5 @@
+numpy
+open3d
+mediapipe
+opencv-python
+opencv-contrib-python
